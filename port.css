@@ -1,5 +1,8 @@
 *{
-    background-image: url("Images/floatie.jpg");
+    background-image: url("Images/techie.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
 
 }
