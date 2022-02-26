@@ -8,18 +8,16 @@
 }
 .top{
     text-align: center;
-
 }
 ul li{
-    text-decoration: none;
-}
-.heading{
-    padding: 20px;
+    display: flex;
+    flex-direction:row;
+    padding: 30px;
 }
 .about{
     text-align: center;
 }
-img{
+.pry{
     height: 50px;
     
 }
@@ -28,4 +26,9 @@ img{
     border: 8px solid white;
     margin-left: 150px;
     background-color: aqua;
+}
+.fly{
+    height: 300px;
+    
+
 }
