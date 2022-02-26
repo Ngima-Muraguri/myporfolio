@@ -29,6 +29,38 @@ ul li{
 }
 .fly{
     height: 300px;
-    
+}
+.folio{
+    text-align: center;
+}
+.burger{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
+}
+.insurance{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
+}
+.projects{
+display: flex;
 
+
+}
+img{
+    height: 300px;
+}
+.ptwo{
+    display: flex;
+}
+.quiz{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
+}
+.parlour{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
 }
