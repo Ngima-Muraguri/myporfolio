@@ -21,10 +21,10 @@ ul li{
     
 }
 .me{
-    width: 60%;
-    border: 8px solid white;
-    margin-left: 200px;
-    
+    width: 80%;
+    border: 8px solid aqua;
+    margin-left: 150px;
+    background:beige;
 }
 .fly{
     height: 300px;
@@ -56,9 +56,40 @@ img{
 .quiz{
     border: 5px solid aqua;
     margin: 20px;
-    text-align: center;
+    text-align: center; 
 }
 .parlour{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
+}
+.call{
+    text-align: center;
+}
+.first{
+    display: flex;
+    padding: 80px;
+}
+.travel{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
+}
+.reading{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
+}
+.second{
+    display: flex;
+    padding: 80px;
+}
+.dance{
+    border: 5px solid aqua;
+    margin: 20px;
+    text-align: center;
+}
+.movies{
     border: 5px solid aqua;
     margin: 20px;
     text-align: center;
