@@ -1,5 +1,5 @@
 *{
-    /* background-image: url("Images/techie.jpg"); */
+    background-image: url("/Images/newback.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
@@ -24,7 +24,6 @@ ul li{
     width: 35%;
     border: 8px solid aqua;
     margin-left: 390px;
-    background:beige;
 }
 .fly{
     height: 300px;
