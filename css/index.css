@@ -113,3 +113,9 @@ table, th, td{
 .contact a{
     padding: 30px;
 }
+.end{
+    font-weight: bolder;
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+}
